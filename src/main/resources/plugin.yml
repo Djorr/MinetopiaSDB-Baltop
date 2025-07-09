@@ -1,0 +1,19 @@
+name: MinetopiaSDB-BalTop
+main: nl.djorr.MinetopiaSDBBalTop
+version: 1.0.0
+author: Djorr
+website: https://discord.rubixdevelopment.nl/
+api-version: 1.13
+depends:
+  - MinetopiaSDB
+  - Vault
+  - Essentials
+commands:
+  sdbbaltop:
+    description: Bekijk de top balances van MinetopiaSDB
+    usage: /sdbbaltop [type] [pagina]
+    aliases: [baltopsdb, sdbtop]
+permissions:
+  sdbbaltop.use:
+    description: Gebruik /sdbbaltop
+    default: op
