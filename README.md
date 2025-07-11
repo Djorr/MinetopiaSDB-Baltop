@@ -1,7 +1,7 @@
 # MinetopiaSDB | BalTop Addon
 
 **Versie:** 1.0.0  
-**Tagline:** De ultieme baltop voor MinetopiaSDB, EssentialsX, Vault en Enfold!
+**Tagline:** De ultieme baltop voor MinetopiaSDB, EssentialsX, Vault!
 
 ---
 
